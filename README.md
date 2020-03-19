@@ -1,0 +1,2 @@
+# SerialPortDataparsing
+基于串口通讯的通讯层框架，封装了数据缓冲池和数据解析等，可更改拓展于蓝牙，wifi通讯等
